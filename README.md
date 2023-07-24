@@ -1,6 +1,3 @@
-<p align="center">
-  < width="150" height="150" alt="Khalid's Profile Picture">
-</p>
 
 ## Hello there, I'm Khalid! 👋
 
