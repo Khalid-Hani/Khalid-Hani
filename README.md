@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://your-profile-image-url" width="150" height="150" alt="Khalid's Profile Picture">
+  < width="150" height="150" alt="Khalid's Profile Picture">
 </p>
 
 ## Hello there, I'm Khalid! 👋
