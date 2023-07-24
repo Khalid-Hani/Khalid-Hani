@@ -6,4 +6,4 @@ I really enjoy connecting with like-minded data people, sharing my skills, exper
 
 
 
-Find me on LinkedIn ➡︎ @mochen862
+Find me on LinkedIn ➡︎ Khalid Hani Abushahla
