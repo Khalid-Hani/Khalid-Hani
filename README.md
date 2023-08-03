@@ -3,7 +3,9 @@
 
 Welcome to my GitHub profile! I'm Khalid Hani Abushahla, a passionate Data Analyst with expertise in various fields. I hold both a Bachelor's and a Master's degree in Biomedical Engineering, and currently, I'm pursuing my Ph.D. in the same fascinating field.
 
-My journey in the world of data has been nothing short of amazing! 🚀 I love connecting with like-minded data enthusiasts, so feel free to reach out and let's discuss all things data!
+My journey in the world of data has been nothing short of amazing! 
+
+🚀 I love connecting with like-minded data enthusiasts, so feel free to reach out and let's discuss all things data!
 
 📊 Data Analytics | 📈 Data Visualization | 🧠 Machine Learning
 
