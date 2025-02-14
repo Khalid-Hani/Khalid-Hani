@@ -1,13 +1,13 @@
 
 ## Hello there, I'm Khalid! 👋
 
-Welcome to my GitHub profile! I’m Khalid Abushahla, a passionate Frontend Developer currently pursuing my PhD in Engineering. My journey into the world of web development is fueled by a love for creating innovative and user-friendly digital experiences. 
+Welcome to my GitHub profile! I’m Khalid Abushahla, a passionate developer currently pursuing my PhD in Engineering. My journey into the world of programmign is fueled by a love for creating innovative and user-friendly digital experiences. 
 
 **Shaping complexity into simplicity—one equation, one line of code at a time.**
 
-🚀 I enjoy connecting with fellow developers and tech enthusiasts, so feel free to reach out! Let's chat about all things web development!
+🚀 I enjoy connecting with fellow developers and tech enthusiasts, so feel free to reach out! Let's chat about all things development!
 
-🌐 Frontend Development |  💻 Coding Enthusiast | 📊 Data Analysis
+🌐 Web Development |  💻 Coding Enthusiast | 📊 Data Analysis
 
 
 ### Find me on LinkedIn:
